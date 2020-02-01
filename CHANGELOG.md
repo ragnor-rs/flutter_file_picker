@@ -1,3 +1,7 @@
+## 1.5.0
+
+Adds Flutter web support for file picking (without filters)
+
 ## 1.4.3+2
 
 Updates dependencies.
